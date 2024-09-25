@@ -1,0 +1,9 @@
+What was the most challenging part of this assignment?
+
+I think it is creating pull request, I've never done this before. And my internet seems not so good, so it actually took me 
+a while for my git commit appear in my local repository, which lead to some consufion :( 
+
+What is one element earn about git and GitHub through this experience?
+
+Perhaps is how to folk other's repository, and make changes in a new branch which would not affect the main codebase. 
+This can be really importance in collaborations.
